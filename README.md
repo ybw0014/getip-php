@@ -4,7 +4,7 @@
 
 getip-php is a PHP library for getting the IPv4 address of client.
 
-* License: MIT, see [LICENSE](https://github.com/ybw0014/getip-php/blob/main/LICENSE)
+* License: MIT, see [LICENSE](https://github.com/ybw0014/getip-php/blob/master/LICENSE)
 
 ## Installation
 
