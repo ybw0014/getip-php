@@ -1,0 +1,23 @@
+{
+    "name": "ybw0014/getip-php",
+    "description": "Get IP address",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "ybw0014",
+            "email": "i@guizhanss.com",
+            "homepage": "https://www.guizhanss.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">= 5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "ybw0014\\": "./src"
+        }
+    }
+}
