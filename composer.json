@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ybw0014\\": "./src"
+            "Guizhan\\": "./src"
         }
     }
 }

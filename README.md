@@ -16,7 +16,7 @@ composer require ybw0014/getip-php
 
 ```php
 <?php
-use ybw0014\IP;
+use Guizhan\IP;
 
 $ip = IP::get();
 ```

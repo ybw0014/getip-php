@@ -1,10 +1,10 @@
 <?php
 
-namespace ybw0014;
+namespace Guizhan;
 
 /**
  * Class IP
- * @package ybw0014
+ * @package Guizhan
  */
 class IP {
 
